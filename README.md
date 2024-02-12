@@ -1,3 +1,3 @@
-# coinwatchpro
+# Ticketly
 
-An expense tracker app created with Nextjs
+A ticketing app created with Nextjs, TailwindCSS, and MongoDB
